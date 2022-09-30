@@ -20,6 +20,11 @@ last in - first out, "последним пришел - первый вышел"
 # [Task 4](task_4.py)
 ![UserMail](imag/UserMail.jpg)
 
+# [Tasks 5](tasks_5.py)
+1. Notebook
+![Notebook](imag/Notebook.jpg)
+2. Money
+![Money](imag/Money.jpg)
 
 
 
