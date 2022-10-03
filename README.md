@@ -26,6 +26,9 @@ last in - first out, "последним пришел - первый вышел"
 2. Money
 ![Money](imag/Money.jpg)
 
+# Vector
+Сложение и умножение векторов [vector.py](vector.py)
+
 
 
 
